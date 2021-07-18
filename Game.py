@@ -1,6 +1,6 @@
 import numpy as np
 from Board import Grid
-from IA import IntelligentAgent
+from AI import IntelligentAgent
 import random
 import time
 
